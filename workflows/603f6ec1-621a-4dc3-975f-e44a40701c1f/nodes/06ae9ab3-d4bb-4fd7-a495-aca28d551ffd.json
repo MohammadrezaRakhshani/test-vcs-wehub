@@ -1,0 +1,12 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000041",
+  "kind": "processor",
+  "label": "stage",
+  "settings": {
+    "label": "stage",
+    "schema_id": "f88fe93a-4093-4858-8d7f-bbc9e39595a3"
+  },
+  "version": 2,
+  "x": 1347.3529411764707,
+  "y": 411.5882352941176
+}

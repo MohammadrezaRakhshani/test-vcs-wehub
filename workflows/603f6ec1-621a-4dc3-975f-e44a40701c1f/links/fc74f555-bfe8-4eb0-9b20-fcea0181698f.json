@@ -1,0 +1,16 @@
+{
+  "destinations": [
+    {
+      "fieldId": "47470e4a-d442-4cfb-97d0-9a8279a83fd0",
+      "node": "06ae9ab3-d4bb-4fd7-a495-aca28d551ffd",
+      "origin": "SCHEMA",
+      "schemaId": "f88fe93a-4093-4858-8d7f-bbc9e39595a3"
+    }
+  ],
+  "source": {
+    "fieldId": "47470e4a-d442-4cfb-97d0-9a8279a83fd0",
+    "node": "648aaa03-bb98-47b6-ab87-7ad20754a5f6",
+    "origin": "SCHEMA",
+    "schemaId": "f88fe93a-4093-4858-8d7f-bbc9e39595a3"
+  }
+}
