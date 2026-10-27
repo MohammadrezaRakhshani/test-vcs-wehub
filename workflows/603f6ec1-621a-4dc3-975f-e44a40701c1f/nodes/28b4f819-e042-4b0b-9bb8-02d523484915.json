@@ -1,0 +1,17 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000001",
+  "kind": "trigger",
+  "label": "trigger",
+  "settings": {
+    "label": "trigger",
+    "manual_outputs": [
+      {
+        "id": "335d28e0-a748-456e-b7bd-c9f6f4640539",
+        "key": ""
+      }
+    ]
+  },
+  "version": 2,
+  "x": 362.9892871251486,
+  "y": 411.16835236757316
+}

@@ -1,0 +1,12 @@
+{
+  "actionId": "a0000000-0000-0000-0000-000000000003",
+  "kind": "processor",
+  "label": "parser",
+  "settings": {
+    "label": "parser",
+    "schema_id": "f88fe93a-4093-4858-8d7f-bbc9e39595a3"
+  },
+  "version": 2,
+  "x": 863.1764705882352,
+  "y": 415.11764705882354
+}
